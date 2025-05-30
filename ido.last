@@ -1,0 +1,314 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/ls482919/work/EasyR1/verl/single_controller/" . "base/")
+ ("/Users/ls482919/work/EasyR1/verl/workers/" . "actor/")
+ ("/Users/ls482919/work/EasyR1/verl/" . "workers/")
+ ("/Users/ls482919/work/EasyR1/" . "verl/")
+ ("/Users/ls482919/work/" . "EasyR1/")
+ ("/Users/ls482919/" . "work/")
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/" . "critic/")
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/utils/reward_score/" . "qwen_math_eval_toolkit/")
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/utils/" . "reward_score/")
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/" . "utils/")
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/" . "verl/")
+ ("/Users/shawnwmli/work/py312/" . "simpleRL-reason/")
+ ("/Users/shawnwmli/work/py313/" . "simpleRL-reason/")
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/utils/" . "debug/")
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/single_controller/" . "ray/")
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/trainer/" . "ppo/")
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/" . "workers/")
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/" . "verl/")
+ ("/Users/shawnwmli/work/llm/llm/verl/tests/verl/" . "utils/")
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/utils/" . "reward_score/")
+ ("/Users/shawnwmli/.emacs.d/local-lisp/" . "init/")
+ ("/Users/shawnwmli/.emacs.d/" . "local-lisp/")
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/" . "mps/")
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/" . "base/")
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/train/train_module/" . "transformer/")
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/workers/" . "rollout/")
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/examples/" . "moe/")
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/distributed/" . "parallel/")
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/" . "distributed/")
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/" . "examples/")
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/" . "src/")
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/trainer/" . "ppo/")
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/air/" . "_internal/")
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/" . "air/")
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/" . "ray/")
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/_private/" . "accelerators/")
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/" . "workers/")
+ ("/Users/shawnwmli/work/llm/llm/verl/examples/" . "ppo_trainer/")
+ ("/Users/shawnwmli/work/llm/llm/verl/" . "verl/")
+ ("/Users/shawnwmli/work/llm/llm/" . "verl/")
+ ("/Users/shawnwmli/work/llm/" . "llm/")
+ ("/Users/shawnwmli/work/" . "py312/")
+ ("/Users/shawnwmli/" . "work/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/ls482919/work/EasyR1/verl/trainer/"
+ "/Users/ls482919/work/EasyR1/verl/workers/"
+ "/Users/ls482919/work/EasyR1/verl/single_controller/base/"
+ "/Users/ls482919/work/EasyR1/verl/workers/actor/"
+ "/Users/ls482919/work/EasyR1/examples/"
+ "/Users/ls482919/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/workers/rollout/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/actor/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/trainer/ppo/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/workers/actor/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/critic/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/trainer/ppo/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/"
+ "/Users/shawnwmli/work/llm/llm/verl/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/trainer/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/utils/reward_score/"
+ "/Users/shawnwmli/work/py312/simpleRL-reason/verl/utils/reward_score/qwen_math_eval_toolkit/"
+ "/Users/shawnwmli/work/py312/simpleRL-reason/verl/trainer/"
+ "/Users/shawnwmli/work/py312/simpleRL-reason/"
+ "/Users/shawnwmli/work/py313/simpleRL-reason/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/utils/debug/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/single_controller/ray/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/single_controller/base/"
+ "/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/workers/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/workers/critic/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/utils/dataset/"
+ "/Users/shawnwmli/.emacs.d/local-lisp/init/"
+ "/Users/shawnwmli/.emacs.d/lisp/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/trainer/config/"
+ "/Users/shawnwmli/work/llm/llm/verl/examples/ppo_trainer/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/ray/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/mps/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/megatron/"
+ "/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/train/train_module/transformer/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/workers/sharding_manager/"
+ "/Users/shawnwmli/work/llm/llm/OLMo-core/src/examples/moe/"
+ "/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/train/"
+ "/Users/shawnwmli/work/llm/llm/verl/verl/trainer/"
+ "/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/_private/accelerators/"
+ "/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/_private/"
+ "/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/air/_internal/"
+ "/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/"
+ "/Users/shawnwmli/work/llm/llm/verl/examples/data_preprocess/"
+ "/Users/shawnwmli/Dropbox/"
+ "/Users/shawnwmli/Library/Logs/ClashX/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "main.py"
+ "fsdp_workers.py"
+ "ray_trainer.py"
+ "worker.py"
+ "dp_actor.py"
+ "qwen2_5_vl_32b_geo3k_grpo.sh"
+ ".bashrc"
+ "hf_rollout.py"
+ "mps_workers.py"
+ "mps_actor.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/ls482919/work/EasyR1/verl/trainer/" (26679 54153 209818 485000) "core_algos.py" "main.py" "ray_trainer.py" "__init__.py" "data_loader.py" "config.py" "metrics.py" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/verl/single_controller/base/" (26679 54153 207953 992000) "__init__.py" "register_center/" "decorator.py" "worker_group.py" "worker.py" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/verl/single_controller/" (26679 54153 208132 866000) "base/" "ray/" "__init__.py" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/verl/workers/actor/" (26679 54153 213999 137000) "base.py" "dp_actor.py" "__init__.py" "config.py" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/verl/workers/" (26679 54153 216920 668000) "actor/" "critic/" "reward/" "rollout/" "__init__.py" "fsdp_workers.py" "sharding_manager/" "config.py" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/verl/" (26679 54153 213168 348000) "trainer/" "single_controller/" "workers/" "models/" "utils/" "__init__.py" "protocol.py" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/examples/" (26679 54153 203575 674000) "format_prompt/" "qwen2_5_7b_math_grpo.sh" "baselines/" "runtime_env.yaml" "qwen2_5_vl_7b_multi_image.sh" "config.yaml" "qwen2_5_vl_32b_geo3k_grpo.sh" "qwen2_5_vl_7b_geo3k_grpo.sh" "qwen3_4b_math_grpo.sh" "qwen2_5_vl_7b_geo3k_reinforce.sh" "reward_function/" "qwen2_5_vl_7b_geo3k_swanlab.sh" "qwen2_5_vl_3b_geo3k_grpo.sh" "../" "./")
+
+ ("/Users/ls482919/work/EasyR1/" (26679 54153 204595 629000) "assets/" ".git/" ".github/" "scripts/" "examples/" ".gitignore" "setup.py" "verl/" "README.md" "pyproject.toml" "Makefile" "Dockerfile" "Dockerfile.legacy" ".pre-commit-config.yaml" "requirements.txt" "LICENSE" "../" "./")
+
+ ("/Users/ls482919/work/" (26679 54145 791267 478000) "rl/" "EasyR1/" "rl-dev-bd6bd0e4d17c664c06b998d8da00aec052151a8d.tar.gz" "rl-dev-bd6bd0e4d17c664c06b998d8da00aec052151a8d/" "draft/" "../" "./")
+
+ ("/Users/ls482919/" (26679 54181 165016 149000) ".zsh_sessions/" ".viminfo" ".cache/" "Downloads/" ".oh-my-zsh/" ".fzf/" "..bashrc.~undo-tree~" "Documents/" ".zcompdump" ".Trash/" ".zcompdump-U-V2X0XRHQ-2336-5.9.zwc" "Movies/" ".ssh/" "work/" ".fzf.bash" "Public/" ".fzf.zsh" ".cups/" ".p10k.zsh" ".emacs.d/" "books/" ".lesshst" ".alicloudprint/" "Library/" "Desktop/" ".zsh_history" ".zprofile" "Pictures/" ".zcompdump-U-V2X0XRHQ-2336-5.9" ".zshrc" ".bashrc" "papers/" ".CFUserTextEncoding" ".tmux.conf" ".DS_Store" "Music/" ".config/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/workers/rollout/" (26637 42377 117222 615000) "hf_rollout.py" "base.py" ".hf_rollout.py.~undo-tree~" "vllm_rollout/" "tokenizer.py" "sglang_rollout/" "naive/" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/rollout/" (26638 12652 361084 895000) "hf_rollout.py" "base.py" ".hf_rollout.py.~undo-tree~" "vllm_rollout/" "tokenizer.py" "naive/" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/" (26638 8883 769927 134000) "actor/" ".mps_workers.py.~undo-tree~" "reward_model/" "critic/" "rollout/" "__init__.py" ".fsdp_workers.py.~undo-tree~" "fsdp_workers.py" "sharding_manager/" "megatron_workers.py" "mps_workers.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/" (26638 9824 317602 833000) "verl.egg-info/" "wandb/" ".readthedocs.yaml" ".ppo_test.sh.~undo-tree~" "outputs/" "assets/" ".git/" ".requirements.txt.~undo-tree~" "scripts/" ".style.yapf" "examples/" "train_grpo_math_tune_ray.sh" ".gitignore" "setup.py" "verl/" "Notice.txt" "eval_math_nodes.sh" "README.md" "docs/" "tests/" "pyproject.toml" "install.sh" "ppo_test.sh" ".train_grpo_math_tune_ray.sh.~undo-tree~" "patches/" "launch_gradio.sh" "requirements.txt" "LICENSE" "docker/" ".flake8" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/trainer/ppo/" (26638 10200 1148 252000) ".ray_trainer.py.~undo-tree~" "core_algos.py" "ray_trainer.py" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/" (26637 41710 804322 635000) "share/" "lib/" "pyvenv.cfg" "include/" "bin/" "llm/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/trainer/ppo/" (26637 43748 654168 928000) ".ray_trainer.py.~undo-tree~" "core_algos.py" ".core_algos.py.~undo-tree~" "ray_trainer.py" "metric_utils.py" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/trainer/" (26637 42377 50948 948000) "fsdp_sft_trainer.py" "ppo/" "runtime_env.yaml" "main_ppo.py" "main_generation.py" "main_eval.py" "__init__.py" "config/" ".main_ppo.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/trainer/" (26637 44184 715308 531000) "fsdp_sft_trainer.py" "ppo/" "runtime_env.yaml" "main_ppo.py" "main_generation.py" "main_eval.py" "__init__.py" "config/" ".main_ppo.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/workers/actor/" (26637 42377 104696 162000) "base.py" "mps_actor.py" ".__init__.py.~undo-tree~" "dp_actor.py" ".megatron_actor.py.~undo-tree~" ".base.py.~undo-tree~" ".dp_actor.py.~undo-tree~" "__init__.py" "megatron_actor.py" ".mps_actor.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/workers/" (26637 42377 114733 958000) "actor/" ".mps_workders.py.~undo-tree~" ".mps_workers.py.~undo-tree~" ".__init__.py.~undo-tree~" "reward_model/" "critic/" ".megatron_workers.py.~undo-tree~" "rollout/" "reward_manager/" "__init__.py" ".fsdp_workers.py.~undo-tree~" "fsdp_workers.py" "sharding_manager/" ".mps_worker.py.~undo-tree~" "megatron_workers.py" "mps_workers.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/" (26637 42376 984292 783000) "verl_demo.log" "verl.egg-info/" ".readthedocs.yaml" ".ppo_test.sh.~undo-tree~" "outputs/" "requirements_sglang.txt" ".vscode/" ".git/" ".github/" "scripts/" "examples/" ".gitignore" "setup.py" "verl/" "Notice.txt" "README.md" "docs/" "tests/" "pyproject.toml" "ppo_test.sh" "recipe/" "patches/" ".pre-commit-config.yaml" "requirements.txt" "..flake8.~undo-tree~" "LICENSE" "docker/" ".flake8" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/critic/" (26637 41703 829904 136000) "mps_critic.py" "base.py" "megatron_critic.py" "__init__.py" "dp_critic.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/workers/actor/" (26637 43231 376529 911000) "base.py" "mps_actor.py" "dp_actor.py" "__init__.py" "megatron_actor.py" ".mps_actor.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/" (26637 41703 836298 987000) "trainer/" "single_controller/" "workers/" "version/" "third_party/" "__pycache__/" "models/" "utils/" "__init__.py" "protocol.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/" (26637 41710 804322 552000) "verl/" "simpleRL-reason/" ".transformer_test.py.~undo-tree~" "transformer_test.py" "OLMo-core/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/utils/reward_score/" (26632 61898 36896 880000) "math_batch.py" "prime_math/" "prime_code/" "math.py" "geo3k.py" "__init__.py" "math_verify.py" "gsm8k.py" "math_dapo.py" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/utils/reward_score/qwen_math_eval_toolkit/" (26634 15992 708690 190000) "examples.py" "utils.py" "parser.py" "grader.py" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/utils/reward_score/" (26635 36236 105281 612000) "hf_math_verify copy.py" "simplelr_math.py" "math.py" "qwen_math_eval_toolkit/" "__init__.py" "kk.py" "deepseek_r1.py" "gsm8k.py" "hf_math_verify.py" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/utils/" (26635 36169 944240 216000) "fsdp_utils.py" "reward_score/" "debug/" "megatron/" "logging_utils.py" "tracking.py" "import_utils.py" "ray_utils.py" "fs.py" "torch_dtypes.py" "flops_counter.py" "memory_buffer.py" "distributed.py" "tokenizer.py" "model.py" "__init__.py" "ulysses.py" "dataset/" "py_functional.py" "rendezvous/" "hdfs_io.py" "logger/" "config.py" "checkpoint/" "megatron_utils.py" "torch_functional.py" "seqlen_balancing.py" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/trainer/" (26635 36808 379731 265000) "fsdp_sft_trainer.py" "ppo/" "runtime_env.yaml" "main_ppo.py" "main_generation.py" "main_eval.py" "__init__.py" "config/" ".main_ppo.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/verl/" (26635 36169 933137 730000) "trainer/" "single_controller/" "workers/" "version/" "third_party/" "__pycache__/" "models/" "utils/" "__init__.py" "protocol.py" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/simpleRL-reason/" (26635 42924 711375 312000) "verl.egg-info/" ".readthedocs.yaml" ".ppo_test.sh.~undo-tree~" "assets/" ".git/" ".requirements.txt.~undo-tree~" "scripts/" ".style.yapf" "examples/" "train_grpo_math_tune_ray.sh" ".gitignore" "setup.py" "verl/" "Notice.txt" "eval_math_nodes.sh" "README.md" "docs/" "tests/" "pyproject.toml" "install.sh" "ppo_test.sh" ".train_grpo_math_tune_ray.sh.~undo-tree~" "patches/" "launch_gradio.sh" "requirements.txt" "LICENSE" "docker/" ".flake8" "../" "./")
+
+ ("/Users/shawnwmli/work/py312/" (26635 43006 180667 824000) "share/" "lib/" "pyvenv.cfg" "triton/" "simpleRL-reason/" "include/" "bin/" "../" "./")
+
+ ("/Users/shawnwmli/work/" (26635 41867 796139 73000) "py313/" "py312/" "llm/" "../" "./")
+
+ ("/Users/shawnwmli/work/py313/simpleRL-reason/" (26635 38208 687225 64000) ".readthedocs.yaml" ".ppo_test.sh.~undo-tree~" "assets/" ".git/" "scripts/" ".style.yapf" "examples/" "train_grpo_math_tune_ray.sh" ".gitignore" "setup.py" "verl/" "Notice.txt" "eval_math_nodes.sh" "README.md" "docs/" "tests/" "pyproject.toml" "install.sh" "ppo_test.sh" ".train_grpo_math_tune_ray.sh.~undo-tree~" "patches/" "launch_gradio.sh" "requirements.txt" "LICENSE" "docker/" ".flake8" "../" "./")
+
+ ("/Users/shawnwmli/work/py313/" (26635 39288 406708 546000) "lib/" ".gitignore" "pyvenv.cfg" "simpleRL-reason/" "include/" "bin/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/utils/debug/" (26632 44641 701120 328000) "performance.py" ".performance.py.~undo-tree~" "trajectory_tracker.py" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/utils/debug/" (26635 36229 796979 253000) "performance.py" "trajectory_tracker.py" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/utils/" (26635 36169 944240 216000) "fsdp_utils.py" "reward_score/" "debug/" "megatron/" "logging_utils.py" "tracking.py" "import_utils.py" "ray_utils.py" "fs.py" "torch_dtypes.py" "flops_counter.py" "memory_buffer.py" "distributed.py" "tokenizer.py" "model.py" "__init__.py" "ulysses.py" "dataset/" "py_functional.py" "rendezvous/" "hdfs_io.py" "logger/" "config.py" "checkpoint/" "megatron_utils.py" "torch_functional.py" "seqlen_balancing.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/single_controller/ray/" (26635 36670 184270 859000) "base.py" "megatron.py" ".base.py.~undo-tree~" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/single_controller/base/" (26635 36526 750058 289000) "megatron/" "__init__.py" "register_center/" "decorator.py" "worker_group.py" "worker.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/simpleRL-reason/verl/single_controller/" (26635 36169 933314 564000) "base/" "ray/" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/" (26635 34428 909934 358000) "trainer/" "single_controller/" "workers/" "version/" "third_party/" "__pycache__/" "models/" "utils/" "__init__.py" "protocol.py" "../" "./")
+
+ ("/Users/shawnwmli/Library/Logs/ClashX/" (26632 44351 719030 441000) "com.west2online.ClashX 2025-04-22--16-06-40-476.log" ".com.west2online.ClashX 2025-04-11--15-33-43-622.log.~undo-tree~" "com.west2online.ClashX 2025-04-22--04-53-18-741.log" ".com.west2online.ClashX 2025-04-12--13-46-20-062.log.~undo-tree~" ".DS_Store" "com.west2online.ClashX 2025-04-23--09-05-03-715.log" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/_private/" (26631 11925 815847 558000) "gcs_pubsub.py" "ray_process_reaper.py" "gcs_utils.py" "state.py" "logging_utils.py" "profiling.py" "serialization.py" "thirdparty/" "gcs_aio_client.py" "event/" "memory_monitor.py" "async_compat.py" ".resource_spec.py.~undo-tree~" "parameter.py" "signature.py" "ray_microbenchmark_helpers.py" "ray_experimental_perf.py" "state_api_test_utils.py" "node.py" "dict.py" "pydantic_compat.py" "workers/" "custom_types.py" "external_storage.py" "storage.py" "log_monitor.py" "conftest_utils.py" "metrics_agent.py" "utils.py" "process_watcher.py" "ray_cluster_perf.py" "auto_init_hook.py" "resource_spec.py" "client_mode_hook.py" "protobuf_compat.py" "ray_perf.py" "ray_client_microbenchmark.py" "tls_utils.py" "usage/" "inspect_util.py" "__init__.py" "ray_logging/" "function_manager.py" "ray_option_utils.py" "arrow_serialization.py" "async_utils.py" "log.py" "accelerators/" "compat.py" "arrow_utils.py" "internal_api.py" "services.py" "test_utils.py" "collections_utils.py" "prometheus_exporter.py" "worker.py" "runtime_env/" "ray_constants.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/_private/accelerators/" (26631 7832 739567 17000) "intel_gpu.py" "apple_gpu.py" ".__init__.py.~undo-tree~" "accelerator.py" "amd_gpu.py" "nvidia_gpu.py" "tpu.py" "npu.py" "__init__.py" ".apu_gpu.py.~undo-tree~" ".apple_gpu.py.~undo-tree~" "hpu.py" "neuron.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/workers/sharding_manager/" (26632 49603 41840 350000) "base.py" "fsdp_ulysses.py" "patch/" "__init__.py" "megatron_vllm.py" "fsdp_sglang.py" "fsdp_vllm.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/megatron/" (26631 34188 963485 846000) ".worker.py.~undo-tree~" "__init__.py" "worker_group.py" "worker.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/ray/" (26632 30915 27948 61000) "base.py" ".megatron.py.~undo-tree~" "megatron.py" ".base.py.~undo-tree~" "__init__.py" ".mps_worker.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/trainer/config/" (26632 53234 631981 570000) "generation.yaml" "evaluation.yaml" "sft_trainer.yaml" ".ppo_trainer.yaml.~undo-tree~" "ppo_megatron_trainer.yaml" "ppo_trainer.yaml" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/" (26632 43235 76305 448000) "megatron/" ".worker.py.~undo-tree~" "__init__.py" "register_center/" "decorator.py" "mps/" "worker_group.py" "worker.py" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/lisp/" (26632 47711 310775 3000) "init-yasnippet.el" "init-autopair.el" "init-auto-complete-c-headers.el" "init-vc.el" "init-dockerfile-mode.el" "init-markdown.el" "init-caffe.el" "init-python-mode.el" "init-org.el" "init-git.el" "init-dired.el" "init-auto-header.el" "init-clojure-cider.el" "init-projectile.el" "init-code-browser-utils.el" "init-xterm.el" "init-makefile-mode.el" "init-cedet.el" "init-javascript.el" "init-auto-complete.el" "init-benchmarking.el" "init-octave.el" "init-mmm.el" "init-ggtags.el" "init-smartparens.el" "init-local.el" "init-cpp.el" "init-elpa.el" "init-common-lisp.el" "init-company.el" "init-web-mode.el" "init-protobuf.el" "init-github.el" "init-textile.el" "init-css.el" "init-term.el" "init-haskell.el" "init-bash.el" "init-erlang.el" "init-darcs.el" "init-html.el" "init-windows.el" "init-compat.el" "init-haml.el" "init-rails.el" "init-nxml.el" "init-uniquify.el" "init-osx-keys.el" "init-hippie-expand.el" "init-themes.el" "init-editing-utils.el" "init-dash.el" "init-utils.el" "init-language-tool.el" "init-clojure.el" "init-sessions.el" "init-imenu-list.el" "init-isearch.el" "init-sql.el" "init-php.el" "init-evil.el" "init-exec-path.el" "init-flycheck.el" "init-ledger.el" "init-ibuffer.el" "init-gui-frames.el" "init-preload-local.el" "init-site-lisp.el" "init-ido.el" "init-misc.el" "init-highlight-indentation.el" "init-locales.el" "init-iedit.el" ".init-python-mode.el.~undo-tree~" "init-proxies.el" "init-lisp.el" "init-ruby-mode.el" "init-frame-hooks.el" "init-irony.el" "init-recentf.el" "init-latex.el" "init-r-mode.el" "init-fonts.el" "init-slime.el" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/local-lisp/init/" (26632 52558 999344 124000) ".init-general.el.~undo-tree~" "ede-projects.el" "init-key-binding.el" "init-powerline.el" ".init-appearance.el.~undo-tree~" "init-indentation.el" "init-appearance.el" "init-general.el" "init-local-util.el" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/workers/critic/" (26632 58615 429167 105000) "mps_critic.py" "base.py" ".__init__.py.~undo-tree~" "megatron_critic.py" ".mps_critic.py.~undo-tree~" "__init__.py" "dp_critic.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/utils/dataset/" (26632 52713 699058 77000) "vision_utils.py" "README.md" "rl_dataset.py" "__init__.py" "multiturn_sft_dataset.py" "rm_dataset.py" ".rl_dataset.py.~undo-tree~" "sft_dataset.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/tests/verl/" (26630 5949 684764 827000) "utils/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/tests/verl/utils/" (26630 5949 685045 662000) "dataset/" "test_module.py" "test_import_utils.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/tests/verl/utils/dataset/" (26632 51444 991987 404000) "test_rm_dataset.py" "test_multiturn_sft_dataset.py" "test_sft_dataset.py" "test_rl_dataset.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/tests/" (26630 5949 684741 410000) "utility/" "generation/" "ray/" "e2e/" "model/" "sandbox/" "verl/" "sanity/" "rollout/" "gpu_utility/" "__init__.py" "distributed/" "checkpoint/" "kill_github_tests.sh" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/local-lisp/" (26617 59559 669406 524000) "init/" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/" (26632 47134 161219 271000) "custom.el.before_ecb_2.40" ".smex-items" ".git/" ".session" "elpa/" "recentf" ".agignore" "early-init.el" "site-lisp/" "history" ".custom.el.~undo-tree~" "semanticdb/" ".gitignore" ".emacs.desktop.lock" "README.md" "init.el" ".emacs.desktop" "auto-save-list/" "custom.el" "transient/" "local-lisp/" "projectile-bookmarks.eld" "elpy/" "eshell/" "lisp/" "ido.last" "snippets/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/shawnwmli/" (26632 45910 340912 45000) ".zsh_sessions/" ".viminfo" ".cache/" "tmp/" ".python_history" "Downloads/" "data/" ".oh-my-zsh/" ".fzf/" ".vscode/" "Documents/" ".zcompdump" ".Trash/" "Dropbox/" "Movies/" "work/" ".dropbox/" ".fzf.bash" "Public/" ".fzf.zsh" ".p10k.zsh" ".emacs.d/" ".history" ".pdbhistory" "Library/" "Desktop/" ".ipython/" ".zsh_history" ".*message*-20250422-135056.~undo-tree~" ".zprofile" "Pictures/" ".local/" ".zshrc" ".bashrc" "papers/" ".CFUserTextEncoding" ".tmux.conf" ".DS_Store" ".zcompdump-Shawn’s MacBook Pro-5.9" "Music/" ".config/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/" (26619 14816 144269 904000) "python3.9/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/register_center/" (26630 5949 688402 722000) "ray.py" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/util/" (26630 6075 254443 786000) "spark/" "serialization.py" "actor_group.py" "client/" "iter_metrics.py" "annotations.py" "serialization_addons.py" "lightgbm/" "check_open_ports.py" "actor_pool.py" "client_connect.py" "sgd/" "debug.py" "common.py" "joblib/" "state/" "placement_group.py" "__init__.py" "debugpy.py" "horovod/" "multiprocessing/" "timer.py" "xgboost/" "collective/" "dask/" "accelerators/" "check_serialize.py" "scheduling_strategies.py" "tracing/" "metrics.py" "iter.py" "rpdb.py" "queue.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/.github/" (26630 5949 667113 104000) "dependabot.yml" "workflows/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/.github/workflows/" (26630 5949 668015 192000) "scorecard.yml" "dataset.yml" "e2e_ascend.yml" "e2e_sft.yml" "e2e_dapo.yml" "model.yml" "e2e_ppo_trainer.yml" "pre-commit-full.yml" "e2e_prime.yml" "ray_test.yml" "pre-commit.yml" "e2e_eval_aime24.yml" "sandbox.yml" "vllm.yml" "sanity.yml" "secrets_scan.yml" "e2e_ppo_trainer_megatron.yml" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/examples/ppo_trainer/" (26631 37621 623077 408000) "run_qwen2-7b_rm_seq_balance.sh" "run_qwen1.5_moe_a2.7b-gsm8k_megatron.sh" "run_qwen2-7b_megatron.sh" "run_qwen2-7b_math_gsm8k_megatron.sh" "run_deepseek7b_llm.sh" "run_qwen2-7b_sglang_seq_balance.sh" "run_deepseek7b_llm_sp2.sh" "run_gemma.sh" "verl_getting_started.ipynb" "run_deepseek7b_llm_modelscope.sh" "run_qwen2-7b_seq_balance.sh" "run_qwen2.5-32b.sh" "run_deepseek_full_hh_rlhf.sh" "run_deepseek_math_gsm8k_megatron.sh" "run_qwen2-7b_rm.sh" "run_deepseek_megatron.sh" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/base/mps/" (26631 34269 935927 896000) "mps_worker.py" ".mps_worker.py.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/train/train_module/transformer/" (26631 10603 428491 988000) "common.py" "train_module.py" "pipeline_train_module.py" "__init__.py" "config.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/train/train_module/" (26631 10603 428093 945000) "train_module.py" "__init__.py" "transformer/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/examples/moe/" (26631 10603 419237 112000) "train.py" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/examples/" (26631 10603 419292 71000) "llama/" "moe/" "huggingface/" "ngpt/" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/distributed/parallel/" (26631 10603 421445 789000) "pipeline_parallel.py" "expert_parallel.py" "context_parallel.py" "tensor_parallel.py" "__init__.py" "data_parallel.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/distributed/" (26631 10603 421494 748000) "utils.py" "__init__.py" "checkpoint/" "parallel/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/train/" (26631 10603 428697 531000) "trainer.py" "train_module/" "utils.py" "common.py" "__init__.py" "callbacks/" "checkpoint.py" "config.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/olmo_core/" (26631 10603 428886 823000) "model_ladder.py" "data/" "eval/" "ops/" "exceptions.py" "py.typed" "train/" "doc_utils.py" "utils.py" "aliases.py" "__init__.py" "optim/" "internal/" "io.py" "launch/" "float8/" "distributed/" "nn/" "version.py" "config.py" "kernels/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/src/" (26631 10603 431559 377000) "scripts/" "examples/" "olmo_core/" "Dockerfile" "test/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/OLMo-core/" (26631 10603 418582 734000) "src/" ".readthedocs.yaml" ".git/" ".github/" ".gitignore" "README.md" "docs/" "MANIFEST.in" "pyproject.toml" "Makefile" "CHANGELOG.md" "LICENSE" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/torch/distributed/" (26619 15090 77606 206000) "_functional_collectives_impl.py" "rpc/" "tensor/" "device_mesh.py" "remote_device.py" "utils.py" "_symmetric_memory/" "launch.py" "_shard/" "_functional_collectives.py" "collective_utils.py" "fsdp/" "_tools/" "_composable/" "__init__.py" "optim/" "algorithms/" "c10d_logger.py" "constants.py" "_checkpointable.py" "argparse_util.py" "pipelining/" "distributed_c10d.py" "autograd/" "elastic/" "nn/" "_sharded_tensor/" "checkpoint/" "launcher/" "_state_dict_utils.py" "run.py" "rendezvous.py" "logging_handlers.py" "_composable_state.py" "_sharding_spec/" "_tensor/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/utils/" (26630 5949 696174 390000) "fsdp_utils.py" "reward_score/" "debug/" "megatron/" "logging_utils.py" "tracking.py" "import_utils.py" "ray_utils.py" "fs.py" "torch_dtypes.py" "flops_counter.py" "memory_buffer.py" "distributed.py" "tokenizer.py" "model.py" "__init__.py" "ulysses.py" "dataset/" "py_functional.py" "rendezvous/" "hdfs_io.py" "logger/" "config.py" "checkpoint/" "megatron_utils.py" "torch_functional.py" "seqlen_balancing.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/verl/single_controller/" (26630 5949 688607 390000) "base/" "ray/" "__init__.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/" (26631 3733 248579 808000) "widgets/" "_raylet.pyi" "job_config.py" "data/" ".git/" "serve/" "autoscaler/" "actor.py" "exceptions.py" "py.typed" "train/" "scripts/" "workflow/" "tune/" "cluster_utils.py" "rllib/" "_raylet.pxd" "_raylet.so" "cross_language.py" "dashboard/" "setup-dev.py" "_private/" "air/" "types.py" "remote_function.py" "job_submission/" "__init__.py" "internal/" "includes/" "nightly-wheels.yaml" "runtime_context.py" "dag/" "cloudpickle/" "_common/" "_version.py" "util/" "thirdparty_files/" "core/" "llm/" "client_builder.py" "jars/" "experimental/" "runtime_env/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/air/_internal/" (26630 6074 939312 814000) "torch_utils.py" "usage.py" "json.py" "tensorflow_utils.py" "filelock.py" "__init__.py" "device_manager/" "util.py" "mlflow.py" "config.py" "uri_utils.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/ray/air/" (26630 6074 941898 744000) "examples/" "execution/" "result.py" "integrations/" "data_batch_type.py" "__init__.py" "session.py" "constants.py" "util/" "config.py" "_internal/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/lib/python3.9/site-packages/" (26630 6080 391359 483000) "MarkupSafe-3.0.2.dist-info/" "platformdirs/" "typing_extensions.py" "pyarrow/" "wandb/" "aiohappyeyeballs/" "hydra/" "proto_plus-1.26.1.dist-info/" "dateutil/" "pandas/" "aiosignal/" "six-1.17.0.dist-info/" "cachetools-5.5.2.dist-info/" "git/" "pydantic_core/" "omegaconf-2.3.0.dist-info/" "eval_type_backport-0.2.2.dist-info/" "dill/" "gitdb/" "peft-0.15.2.dist-info/" "setuptools-58.0.4.dist-info/" "functorch/" "annotated_types-0.7.0.dist-info/" "ray/" "verl.egg-link" "yarl/" "colorful-0.5.6.dist-info/" "hydra_core-1.3.2.dist-info/" "omegaconf/" "wandb-0.19.9.dist-info/" "traitlets/" "prompt_toolkit-3.0.50.dist-info/" "psutil/" "eval_type_backport/" "multidict-6.4.3.dist-info/" "typing_inspection/" "pydantic/" "virtualenv/" "parso/" "pyasn1_modules-0.4.2.dist-info/" "safetensors-0.5.3.dist-info/" "smmap-5.0.2.dist-info/" "_distutils_hack/" "matplotlib_inline-0.1.7.dist-info/" "PyYAML-6.0.2.dist-info/" "aiosignal-1.3.2.dist-info/" "pkg_resources/" "setuptools/" "jsonschema_specifications/" "sympy-1.13.1.dist-info/" "asttokens/" "propcache-0.3.1.dist-info/" "networkx-3.2.1.dist-info/" "wrapt-1.17.2.dist-info/" "google_api_core-2.24.2.dist-info/" "smart_open-7.1.0.dist-info/" "aiohappyeyeballs-2.6.1.dist-info/" "tensordict-0.6.2.dist-info/" "docker_pycreds-0.4.0.dist-info/" "urllib3/" "torchgen/" "pydantic_core-2.33.1.dist-info/" "cloudpickle-3.1.1.dist-info/" "torchdata/" "aiohttp-3.11.18.dist-info/" "pure_eval-0.2.3.dist-info/" "xxhash/" "colorful/" "prometheus_client/" "yaml/" "dill-0.3.8.dist-info/" "torchdata-0.11.0.dist-info/" "antlr4_python3_runtime-4.9.3-py3.9.egg-info/" "pyarrow-19.0.1.dist-info/" "filelock-3.18.0.dist-info/" "opencensus-0.11.4.dist-info/" "jinja2-3.1.6.dist-info/" "codetiming-1.4.0.dist-info/" "tensordict/" "urllib3-2.4.0.dist-info/" "safetensors/" "six.py" "ptyprocess/" "platformdirs-4.3.7.dist-info/" "_yaml/" "isympy.py" "setproctitle-1.3.5.dist-info/" "certifi-2025.1.31.dist-info/" "opencensus_context-0.1.3.dist-info/" "pip-21.2.4.dist-info/" "tqdm/" "torch-2.6.0.dist-info/" "packaging-24.2.dist-info/" "wcwidth-0.2.13.dist-info/" "ipython-8.18.1.dist-info/" "jsonschema/" "charset_normalizer-3.4.1.dist-info/" "transformers/" "py_spy-0.4.0.dist-info/" "pexpect/" "attr/" "mpmath-1.3.0.dist-info/" "python_dateutil-2.9.0.post0.dist-info/" "distutils-precedence.pth" "sentry_sdk-2.26.1.dist-info/" "prompt_toolkit/" "certifi/" "jsonschema_specifications-2024.10.1.dist-info/" "rsa-4.9.1.dist-info/" "psutil-7.0.0.dist-info/" "gitdb-4.0.12.dist-info/" "smmap/" "pyasn1_modules/" "fsspec-2024.12.0.dist-info/" "pip/" "regex-2024.11.6.dist-info/" "multidict/" "referencing-0.36.2.dist-info/" "xxhash-3.5.0.dist-info/" "requests/" "antlr4/" "charset_normalizer/" "peft/" "exceptiongroup/" "multiprocess-0.70.16.dist-info/" "numpy/" "_multiprocess/" "aiohttp_cors-0.8.1.dist-info/" "wrapt/" "stack_data-0.6.3.dist-info/" "regex/" "pyasn1-0.6.1.dist-info/" "pylatexenc/" "cachetools/" "executing-2.2.0.dist-info/" "filelock/" "jsonschema-4.23.0.dist-info/" "virtualenv-20.30.0.dist-info/" "pytz/" "numpy-2.0.2.dist-info/" "tokenizers-0.21.1.dist-info/" "smart_open/" "decorator-5.2.1.dist-info/" "codetiming/" "typing_extensions-4.13.2.dist-info/" "torch/" "click/" "sentry_sdk/" "idna/" "tzdata-2025.2.dist-info/" "typing_inspection-0.4.0.dist-info/" "click-8.1.8.dist-info/" "pydantic-2.11.3.dist-info/" "exceptiongroup-1.2.2.dist-info/" "tqdm-4.67.1.dist-info/" "asttokens-3.0.0.dist-info/" "jedi/" "datasets/" "matplotlib_inline/" "googleapis_common_protos-1.70.0.dist-info/" "executing/" "rpds_py-0.24.0.dist-info/" "rsa/" "tzdata/" "setproctitle/" "referencing/" "jedi-0.19.2.dist-info/" "google/" "accelerate-1.6.0.dist-info/" "decorator.py" "GitPython-3.1.44.dist-info/" "transformers-4.51.2.dist-info/" "fsspec/" "cloudpickle/" "pydevd_plugins/" "dockerpycreds/" "frozenlist-1.6.0.dist-info/" "frozenlist/" "easy-install.pth" "pybind11/" "IPython/" "jinja2/" "attrs-25.3.0.dist-info/" "stack_data/" "mpmath/" "grpc/" "requests-2.32.3.dist-info/" "huggingface_hub-0.30.2.dist-info/" "msgpack-1.1.0.dist-info/" "distlib/" "propcache/" "yarl-1.20.0.dist-info/" "rpds/" "proto/" "pure_eval/" "pygments/" "grpcio-1.71.0.dist-info/" "sympy/" "attrs/" "parso-0.8.4.dist-info/" "multiprocess/" "annotated_types/" "pylatexenc-2.10-py3.9.egg-info/" "huggingface_hub/" "pytz-2025.2.dist-info/" "pybind11-2.13.6.dist-info/" "prometheus_client-0.21.1.dist-info/" "accelerate/" "ptyprocess-0.7.0.dist-info/" "markupsafe/" "distlib-0.3.9.dist-info/" "wcwidth/" "package_readme.md" "networkx/" "traitlets-5.14.3.dist-info/" "msgpack/" "ray-2.44.1.dist-info/" "idna-3.10.dist-info/" "tokenizers/" "async_timeout-5.0.1.dist-info/" "protobuf-5.29.4.dist-info/" "pyasn1/" "pandas-2.2.3.dist-info/" "pygments-2.19.1.dist-info/" "pexpect-4.9.0.dist-info/" "aiohttp_cors/" "aiohttp/" "packaging/" "google_auth-2.39.0.dist-info/" "async_timeout/" "opencensus/" "orjson/" "datasets-3.5.0.dist-info/" "orjson-3.10.16.dist-info/" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/examples/data_preprocess/" (26630 5949 671874 755000) "multiturn.py" "hellaswag.py" "geo3k.py" "math_dataset.py" "gsm8k.py" "full_hh_rlhf.py" "../" "./")
+
+ ("/Users/shawnwmli/work/llm/llm/verl/examples/" (26630 5949 674696 63000) "generation/" "ray/" "sft/" "tuning/" "remax_trainer/" "rloo_trainer/" "split_placement/" "grpo_trainer/" "ppo_trainer/" "slurm/" "data_preprocess/" "checkpoint/" "reinforce_plus_plus_trainer/" "../" "./")
+
+ ("/Users/shawnwmli/Dropbox/" (26618 32383 286219 311000) "#30samples_evolved_by_g4_from_part7_info_process_rm_0222.jsonl#" "Apps/" "How to launch a HIGH-IMPACT NONPROFIT.pdf" ".Trash/" "work/" "Republic of Letters.pdf" "profile/" "个人履历 - Shawn.pdf" "current.txt" "research_thread.md" ".markdown-preview.html" "life/" "hobby/" "pictures/" "ge_library/" "art/" "人类计划 - Shawn.pdf" ".DS_Store" "30samples_evolved_by_g4_from_part7_info_process_rm_0222.jsonl" "to_free_space.md" "journey.md" "personal-experience.md" ".30samples_evolved_by_g4_from_part7_info_process_rm_0222.jsonl.~undo-tree~" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/" (26618 32218 828447 647000) "site-packages/" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/site-packages/" (26618 32233 326746 47000) "pyflakes/" "autopep8.py" "platformdirs/" "typing_extensions.py" "black-25.1.0.dist-info/" "pycodestyle-2.13.0.dist-info/" "setuptools-58.0.4.dist-info/" "black/" "yapf_third_party/" "parso/" "_distutils_hack/" "pkg_resources/" "setuptools/" "pyflakes-3.3.2.dist-info/" "blackd/" "blib2to3/" "platformdirs-4.3.7.dist-info/" "mypy_extensions.py" "pycodestyle.py" "pip-21.2.4.dist-info/" "packaging-24.2.dist-info/" "mccabe-0.7.0.dist-info/" "distutils-precedence.pth" "tomli/" "pip/" "_black_version.py" "yapf/" "pathspec-0.12.1.dist-info/" "mccabe.py" "typing_extensions-4.13.2.dist-info/" "click/" "click-8.1.8.dist-info/" "autopep8-2.3.2.dist-info/" "jedi/" "30fcd23745efe32ce681__mypyc.cpython-39-darwin.so" "yapftests/" "pathspec/" "jedi-0.19.2.dist-info/" "mypy_extensions-1.0.0.dist-info/" "yapf-0.43.0.dist-info/" "flake8/" "parso-0.8.4.dist-info/" "tomli-2.2.1.dist-info/" "flake8-7.2.0.dist-info/" "packaging/" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/site-packages/jedi/" (26618 32233 52295 105000) "__main__.py" "_compatibility.py" "file_io.py" "inference/" "api/" "settings.py" "debug.py" "utils.py" "common.py" "third_party/" "__init__.py" "cache.py" "parser_utils.py" "plugins/" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/site-packages/jedi/third_party/" (26618 32233 90820 193000) "django-stubs/" "typeshed/" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/site-packages/jedi/third_party/typeshed/" (26618 32233 142152 851000) "stdlib/" "third_party/" "LICENSE" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/" (26618 32233 141968 393000) "2/" "3/" "2and3/" "3.9/" "3.7/" "../" "./")
+
+ ("/Users/shawnwmli/.emacs.d/elpy/rpc-venv/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/2and3/" (26618 32233 119508 290000) "pyexpat/" "pyclbr.pyi" "dis.pyi" "pkgutil.pyi" "hmac.pyi" "sre_compile.pyi" "antigravity.pyi" "__future__.pyi" "pickletools.pyi" "array.pyi" "_curses.pyi" "logging/" "traceback.pyi" "uuid.pyi" "mailbox.pyi" "cgitb.pyi" "doctest.pyi" "smtpd.pyi" "zipfile.pyi" "readline.pyi" "pydoc_data/" "xdrlib.pyi" "lib2to3/" "audioop.pyi" "bdb.pyi" "numbers.pyi" "formatter.pyi" "binascii.pyi" "winsound.pyi" "errno.pyi" "opcode.pyi" "tarfile.pyi" "genericpath.pyi" "plistlib.pyi" "threading.pyi" "keyword.pyi" "uu.pyi" "_bisect.pyi" "_weakrefset.pyi" "datetime.pyi" "_csv.pyi" "marshal.pyi" "cmath.pyi" "pickle.pyi" "code.pyi" "turtle.pyi" "stringprep.pyi" "cgi.pyi" "bisect.pyi" "ensurepip/" "sqlite3/" "mailcap.pyi" "mimetypes.pyi" "_msi.pyi" "msvcrt.pyi" "time.pyi" "imghdr.pyi" "symtable.pyi" "_codecs.pyi" "token.pyi" "sched.pyi" "wsgiref/" "parser.pyi" "sndhdr.pyi" "bz2.pyi" "codecs.pyi" "codeop.pyi" "xml/" "select.pyi" "warnings.pyi" "netrc.pyi" "_dummy_threading.pyi" "unicodedata.pyi" "_weakref.pyi" "macpath.pyi" "grp.pyi" "zlib.pyi" "contextlib.pyi" "pydoc.pyi" "struct.pyi" "crypt.pyi" "webbrowser.pyi" "tabnanny.pyi" "linecache.pyi" "this.pyi" "fractions.pyi" "difflib.pyi" "msilib/" "binhex.pyi" "_typeshed/" "csv.pyi" "aifc.pyi" "locale.pyi" "base64.pyi" "weakref.pyi" "pprint.pyi" "shutil.pyi" "decimal.pyi" "zipimport.pyi" "pdb.pyi" "pstats.pyi" "site.pyi" "copy.pyi" "pwd.pyi" "trace.pyi" "colorsys.pyi" "_random.pyi" "mmap.pyi" "_heapq.pyi" "dummy_threading.pyi" "quopri.pyi" "imaplib.pyi" "optparse.pyi" "sysconfig.pyi" "poplib.pyi" "fileinput.pyi" "operator.pyi" "sunau.pyi" "cProfile.pyi" "math.pyi" "timeit.pyi" "asyncore.pyi" "termios.pyi" "_warnings.pyi" "modulefinder.pyi" "filecmp.pyi" "wave.pyi" "ssl.pyi" "ftplib.pyi" "tty.pyi" "nis.pyi" "curses/" "socket.pyi" "asynchat.pyi" "py_compile.pyi" "pty.pyi" "syslog.pyi" "rlcompleter.pyi" "cmd.pyi" "calendar.pyi" "telnetlib.pyi" "ctypes/" "chunk.pyi" "profile.pyi" "argparse.pyi" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
