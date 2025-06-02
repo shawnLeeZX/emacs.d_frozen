@@ -70,6 +70,9 @@
           )
 ;; Smartparens has some support for python. Add it.
 (require 'smartparens-python)
+(setenv "WORKON_HOME" "/home/ls482919/miniconda3/envs")
+(setq python-shell-interpreter "/home/ls482919/miniconda3/envs/vlm_rl/bin/python")
+(setq elpy-rpc-python-command "/home/ls482919/miniconda3/envs/vlm_rl/bin/python")
 
 ;; Refactoring
 ;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
